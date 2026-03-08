@@ -1,10 +1,10 @@
-# ParkShare – Smart Community Parking Platform
+# ParkGO – Smart Community Parking Platform
 
 ## 1. Project Overview
 
-ParkShare is a smart parking marketplace platform that connects **vehicle owners searching for temporary parking** with **property owners who have unused parking spaces**.
+ParkGO is a smart parking marketplace platform that connects **vehicle owners searching for temporary parking** with **property owners who have unused parking spaces**.
 
-In many urban areas, parking demand is extremely high while numerous private parking spaces remain unused for large portions of the day. ParkShare solves this problem by allowing property owners to **rent out their unused parking spaces for short durations**, while drivers can **find and book nearby parking in real time**.
+In many urban areas, parking demand is extremely high while numerous private parking spaces remain unused for large portions of the day. ParkGO solves this problem by allowing property owners to **rent out their unused parking spaces for short durations**, while drivers can **find and book nearby parking in real time**.
 
 The platform also integrates **smart analytics features such as demand heatmaps and dynamic pricing suggestions**, making it useful not only for drivers but also for parking providers.
 
@@ -29,7 +29,7 @@ At the same time, homeowners and private properties often have **unused parking 
 
 # 3. Proposed Solution
 
-ParkShare creates a **digital parking marketplace** where:
+ParkGO creates a **digital parking marketplace** where:
 
 Drivers can:
 
@@ -292,7 +292,7 @@ Leaflet for map visualization
 # 10. Project Structure
 
 ```
-parkshare/
+ParkGO/
 │
 ├── backend
 │   ├── app.py
@@ -380,7 +380,7 @@ Driver navigates to parking.
 
 # 14. Future Scope
 
-If developed into a real product, ParkShare could include:
+If developed into a real product, ParkGO could include:
 
 Real-time parking sensors
 Mobile app support
@@ -393,7 +393,7 @@ Smart city traffic integration
 
 # 15. Impact
 
-ParkShare helps:
+ParkGO helps:
 
 Drivers
 Reduce time searching for parking
@@ -408,4 +408,4 @@ Reduce congestion and optimize parking utilization
 
 # 16. Conclusion
 
-ParkShare demonstrates how technology can transform unused private parking spaces into a shared urban resource. By combining real-time booking, smart analytics, and location-based services, the platform contributes toward the development of smarter and more efficient urban mobility systems.
+ParkGO demonstrates how technology can transform unused private parking spaces into a shared urban resource. By combining real-time booking, smart analytics, and location-based services, the platform contributes toward the development of smarter and more efficient urban mobility systems.
